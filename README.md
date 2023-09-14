@@ -1,10 +1,5 @@
 # **Learn Sequelize**
 
-## **Installation**
-
-Clone the repo with the command **git clone**
-Install all dependencies with the command **npm install**
-
 ## **Project build with**
 
 -   **Dotenv**
