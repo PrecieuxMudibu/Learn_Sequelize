@@ -22,7 +22,7 @@ Once done, go to the project folder by typing :
 cd Learn_Sequelize
 ```
 
-Once on the root of the project, type this command to install dependancies :
+Once on the root of the project, type this command to install dependencies :
 
 ```bash
 npm install
