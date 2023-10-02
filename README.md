@@ -44,6 +44,6 @@ Once the configurations are completed, go back to your terminal and type this co
 npm run start
 ```
 
-## **Authors**
+## **Author**
 
--   **[Précieux Mudibu](https://github.com/PrecieuxMudibu)**
+**[Précieux Mudibu](https://github.com/PrecieuxMudibu)**
